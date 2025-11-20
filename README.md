@@ -149,5 +149,5 @@ Free to use for personal and commercial projects.
 
 ---
 
-**Created by:** DataPulse Team  
+**Created by:** Abdulazeez  
 **Repository:** [Datapulse-Dashboard](https://github.com/BrightDev10-Cloud/Datapulse-Dashboard)
